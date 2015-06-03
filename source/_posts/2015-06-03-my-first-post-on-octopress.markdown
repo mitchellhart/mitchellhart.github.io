@@ -6,7 +6,7 @@ comments: true
 categories: "Flatiron School"
 ---
 
-Hello Word. Shortly you'll find various snippets of thought related to code and the the continuing process of learning.
+Hello. Shortly you'll find various snippets of thought related to code and the the continuing process of learning.
 
 
 -Mitchell
