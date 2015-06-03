@@ -4,7 +4,7 @@
   <title><![CDATA[Blog]]></title>
   <link href="http://mitchellhart.github.io/atom.xml" rel="self"/>
   <link href="http://mitchellhart.github.io/"/>
-  <updated>2015-06-03T13:18:24-04:00</updated>
+  <updated>2015-06-03T13:39:03-04:00</updated>
   <id>http://mitchellhart.github.io/</id>
   <author>
     <name><![CDATA[Mitchell Hart]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <title type="html"><![CDATA[Hello, World]]></title>
     <link href="http://mitchellhart.github.io/blog/2015/06/03/my-first-post-on-octopress/"/>
     <updated>2015-06-03T13:14:43-04:00</updated>
     <id>http://mitchellhart.github.io/blog/2015/06/03/my-first-post-on-octopress</id>
-    <content type="html"><![CDATA[<p>&ldquo;Hello, World&rdquo;</p>
+    <content type="html"><![CDATA[<p>Hello Word. Shortly you&rsquo;ll find various snippets of thought related to code and the the continuing process of learning.</p>
+
+<p>-Mitchell</p>
 ]]></content>
   </entry>
   
